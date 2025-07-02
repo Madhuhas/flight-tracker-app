@@ -11,7 +11,7 @@ def get_flight_status(flight_code, date):
     url = f"https://aerodatabox.p.rapidapi.com/flights/number/{flight_code}/{date}"
 
     headers = {
-        "X-RapidAPI-Key": "dc11990ademsh08c7100eda086e6p13cbbdjsn543887d8eb2d",
+        "X-RapidAPI-Key": "YOUR_API_KEY_HERE",  # replace with your real key
         "X-RapidAPI-Host": "aerodatabox.p.rapidapi.com"
     }
 
