@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.xlsx
+status_cache.json
+.env
+.vscode/
+node_modules/
