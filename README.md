@@ -57,4 +57,4 @@ Use Task Scheduler (Windows) or cron (Linux/macOS) to run refresh_status.py ever
 This project is open-source under the MIT License. Customize and build on it freely!
 
 🙌 Credits
-Created by Sai Guided by Microsoft Copilot 💬 Powered by AeroDataBox
+Created by Madhuhas Guided by Microsoft Copilot 💬 Powered by AeroDataBox
